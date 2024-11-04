@@ -57,16 +57,14 @@ pip install -r requirements.txt
 
 ```bash
 python src/main.py --mode train --epochs 20
-Evaluating the Model
-To evaluate the trained model on test data, use:
 ```
-
+- Evaluating the Model
+- To evaluate the trained model on test data, use:
 ```bash
 python src/main.py --mode evaluate
-Running Prediction
-To predict on a single image:
 ```
-
+- Running Prediction
+To predict on a single image:
 ```bash
 python src/main.py --mode predict --image_path path/to/your/image.png
 ```
@@ -97,3 +95,9 @@ git checkout -b feature-branch
 ```
 2. Make your changes and commit them.
 3. Push your branch and create a Pull Request.
+
+My goal is to contribute to the accessibility of Malayalam and promote its use in the digital world.
+
+[Linkedin](https://www.linkedin.com/in/cyriac-john-5b7844216/)
+[Email](yohncyriac2002@gmail.com)
+
