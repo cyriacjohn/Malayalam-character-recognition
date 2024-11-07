@@ -94,7 +94,7 @@ git checkout -b feature-branch
 
 My goal is to contribute to the accessibility of Malayalam and promote its use in the digital world.
 
-[Linkedin](https://www.linkedin.com/in/cyriac-john-5b7844216/)
-[Email](yohncyriac2002@gmail.com)
+[Linkedin](https://www.linkedin.com/in/cyriac-john-5b7844216/)<br>
+[Email](yohncyriac2002@gmail.com)<br>
 [Medium](https://www.medium.com/@cyriacjohn)
 
