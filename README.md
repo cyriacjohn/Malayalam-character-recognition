@@ -1,7 +1,5 @@
 # Malayalam Character Recognition
 
-## 🌸 Introduction
-
 As a proud Malayali, I've always been captivated by the beauty and complexity of the Malayalam script. This project, **Malayalam Character Recognition**, is inspired by my love for my native language and its unique script. The goal is to build a tool that recognizes handwritten Malayalam characters using deep learning, contributing to the digital accessibility of this culturally rich language.
 
 ## 🌟 Project Overview
@@ -23,8 +21,6 @@ This project uses a Convolutional Neural Network (CNN) to recognize and classify
 - **OpenCV**: Image processing library
 - **Numpy**: Data manipulation and preprocessing
 - **Jupyter Notebooks**: For experimenting and evaluating model performance
-
-## 🎯 Getting Started
 
 ### Prerequisites
 
@@ -100,4 +96,5 @@ My goal is to contribute to the accessibility of Malayalam and promote its use i
 
 [Linkedin](https://www.linkedin.com/in/cyriac-john-5b7844216/)
 [Email](yohncyriac2002@gmail.com)
+[Medium](https://www.medium.com/@cyriacjohn)
 
