@@ -28,7 +28,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize and classify
 2. **Virtual Environment (recommended)**: To isolate project dependencies.
 3. **Clone the Repository**:
    ```bash
-   git clone https://github.com/hadeeb/malayalam-character-recognition.git
+   git clone https://github.com/cyriacjohn/malayalam-character-recognition.git
    cd malayalam-character-recognition
    ```
 ### Installation
